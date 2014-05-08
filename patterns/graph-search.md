@@ -1,5 +1,6 @@
 ### TODO:
 - [ ] 想想更好的例子，这个技巧的应用场景?
+- [ ] Python default parameter 造成的问题 - 调用很不方便
 
 ### Tips
 - "Least Astonishment" in Python: which scope is the Mutable Default Argument in?
