@@ -6,6 +6,7 @@
 ### Structure
 
 - [guide](https://github.com/kennethreitz/python-guide)：学习python-guide的笔记
-- [patterns](https://github.com/faif/python-patterns)：学习python-patterns的笔记
+- [patterns](https://github.com/faif/python-patterns)：学习python-patterns的笔记 - 好例子全在Design Patterns in Ruby！！
 - _topics: 是自己在整理和学习常见主题存放md的目录
+- _refactor: 重构系列， 怎么吧挫代码改善 - 参考：Refactoring Ruby Ed. 等
 - _libraries: 是自己在整理和学习比较优雅类库存放md的目录
